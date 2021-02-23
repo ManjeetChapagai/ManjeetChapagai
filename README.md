@@ -2,12 +2,17 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🔭 I just launched my first food searching web application: "HamroFood"
-- 🌱 I’m currently learning React Native, MySQL, Mongo DB, Express, AWS
+I am a hard-working and self-motivated Full Stack Developer with a primary focus on the MERN stack. I am an engineer turned developer, with hands-on experience in designing and developing real-world applications using a range of web-technologies.
+
+Started with “Hello World” in C++, now I have skills of HTML, CSS, JavaScript,ReactJS, React Native, NodeJS, ExpressJS, MongoDB, Java and more to recognize myself as Full Stack Web and Mobile Developer.
+
+- 👨‍💻 I am at Algorizin Inc. as Full Stack Developer Intern. I am currently working in Nudge App (React Native).
+- 🔭 I recently launched my first food searching web application: "HamroFood"
+- 🌱 I’m currently learning MySQL, NodeJS, Mongo DB, Express, AWS
 - 👯 I’m looking to collaborate with other developers for working on new projects
-- 😊 Seeking for any kind of help to land a job as Full Stack Developer
+- 😊 Seeking for any kind of help to get a full time opportunity as Full Stack Developer
 - 🥅 2021 Resolution: Get connected to as many developers and contribute to more projects than 2020
-- ⚡ Fun fact: I'm an Engineer turned Developer
+- ⚡ Fun fact: I'm an Engineer turned Developer; I love talking about soccer; I love to cook in my free time
 
 ### Languages and Tools:
 
